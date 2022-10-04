@@ -1,6 +1,9 @@
-# importacaoprodutos
+# Importacao de produtos
 
-## Requisitos
+### Vídeo do projeto
+https://youtu.be/TiLw7_z6N9o
+
+### Requisitos
 Desenvolver um pequeno sistema que importe dados de um excel (anexo) para uma tabela no banco de dados. A aplicação deverá ser composta pelas seguintes telas:
 
 ### Login
